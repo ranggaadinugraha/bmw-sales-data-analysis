@@ -63,3 +63,28 @@ The dataset contains historical BMW sales records with the following attributes:
 ---
 
 ## 📁 Project Structure
+
+BMW-Sales-Analysis/
+│
+├── BMW_Sales_Analysis.ipynb
+├── BMW sales data (2010-2024).csv
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+1. Open the notebook using Google Colab  
+2. Upload the dataset file:  
+   `BMW sales data (2010-2024).csv`  
+3. Run all cells sequentially  
+
+---
+
+## 🔮 Future Enhancements
+- Develop an interactive dashboard  
+- Apply machine learning models for sales classification  
+- Implement sales forecasting models  
+- Deploy analysis using Streamlit or Plotly Dash  
+
+---
