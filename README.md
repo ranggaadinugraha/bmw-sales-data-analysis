@@ -60,14 +60,6 @@ The dataset contains historical BMW sales records with the following attributes:
 - Sales performance varies significantly across regions.  
 - Recent years indicate a trend toward more efficient engine sizes.  
 
----
-
-## 📁 Project Structure
-BMW-Sales-Analysis/
-├── BMW_Sales_Analysis.ipynb
-├── BMW sales data (2010-2024).csv
-└── README.md
-
 
 ---
 
