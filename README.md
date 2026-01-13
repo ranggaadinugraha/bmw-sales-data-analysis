@@ -65,9 +65,11 @@ The dataset contains historical BMW sales records with the following attributes:
 ## 📁 Project Structure
 
 BMW-Sales-Analysis/
+│
 ├── BMW_Sales_Analysis.ipynb
 ├── BMW sales data (2010-2024).csv
 └── README.md
+
 
 
 ---
