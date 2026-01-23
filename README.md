@@ -87,3 +87,51 @@ The dataset contains historical BMW sales records with the following attributes:
 ### 🌍 Total Sales Volume by Region
 ![Total Sales by Region](asset/total_sales.png)
 
+
+
+## 📊 Project Output & Insights
+
+### 📈 Sales Trend Analysis (2010–2024)
+- BMW sales volume shows **yearly fluctuations** with several peak and decline periods.
+- Despite temporary downturns, the overall trend indicates **market recovery and resilience**.
+- Sales trends highlight the importance of **long-term planning and forecasting**.
+
+---
+
+### 💰 Price & Engine Size Relationship
+- Vehicles with **larger engine sizes tend to have higher prices**.
+- Higher-priced vehicles generally record **lower sales volume**, indicating a premium market segment.
+- Medium engine sizes offer the **best balance between price and demand**.
+
+---
+
+### 📉 Mileage Impact on Price
+- A **negative correlation** is observed between vehicle mileage and price.
+- Higher mileage vehicles experience **consistent price depreciation**.
+
+---
+
+### 🌍 Regional Sales Performance
+- Sales distribution varies across regions, with **some regions contributing more significantly** to total sales volume.
+- Regional differences indicate **market preference and growth opportunities**.
+
+---
+
+### ⚙️ Engine Size Trend Over Time
+- Average engine size shows a **gradual decrease in recent years**.
+- This trend suggests a shift toward **fuel efficiency and compliance with emission regulations**.
+
+---
+
+### 🧠 Business Value
+This project provides actionable insights that can be used for:
+- Sales forecasting and strategic planning  
+- Product positioning and pricing strategy  
+- Regional market optimization  
+- Understanding customer preferences and market trends  
+
+---
+
+### 📌 Summary
+> *This analysis transforms raw BMW sales data into meaningful insights, supporting data-driven decision-making in sales strategy, pricing, and market planning.*
+
