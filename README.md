@@ -78,3 +78,12 @@ The dataset contains historical BMW sales records with the following attributes:
 - Deploy analysis using Streamlit or Plotly Dash  
 
 ---
+
+## 📊 Visualization Results
+
+### 📈 Sales Trends & Vehicle Characteristics (2010–2024)
+![Average Metrics Over Time](asset/avg.png)
+
+### 🌍 Total Sales Volume by Region
+![Total Sales by Region](asset/total_sales.png)
+
